@@ -13,11 +13,11 @@ function odd(){
   
 
   if(currentNumber % 2 === 0){
-  var msg = "The Number:" + currentNumber +   "Is Even";
+  var msg = "The Number:" + currentNumber +   "Is Even  ";
   document.getElementById("Num").innerHTML = msg;
   }
     else{
-      var msg2 = "The Number:" + currentNumber + "Is Odd";
+      var msg2 = "The Number:" + currentNumber + "Is Odd  ";
       document.getElementById("Result").innerHTML = msg2;
     }
 
