@@ -1,0 +1,6 @@
+const getMinNum = function(a, b){
+
+return " Min " + getMinNum;
+
+}
+console.log(getMinNum(44, 63));
